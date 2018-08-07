@@ -13,7 +13,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn](https://www.linkedin.com/in/brianmcgirk/)
 
 ### Resume
-[Online Resume](https://www.brianmcgirk.com/)
+[Online Resume](https://www.brianmcgirk.com/),<br/>
 [Resume pdf](https://docs.wixstatic.com/ugd/82e9a0_5a12b3ba58c242d688a642fe03f5da77.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
